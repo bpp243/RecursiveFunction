@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RecursiveFunction", "RecursiveFunction\RecursiveFunction.pyproj", "{743456B0-9935-455B-A61C-2369C403D5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743456B0-9935-455B-A61C-2369C403D5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{743456B0-9935-455B-A61C-2369C403D5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978F54F0-8980-4BCF-9D34-5748D6DCF838}
+	EndGlobalSection
+EndGlobal
